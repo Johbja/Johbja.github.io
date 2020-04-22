@@ -1,0 +1,14 @@
+.followButton{
+  background-color: #ebebeb;
+  border: 1px solid #808080;
+  border-radius: 4px;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 40%;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
